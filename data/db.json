@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "a011",
+      "name": "camisa",
+      "price": "14"
+    },
+    {
+      "id": "3ddd",
+      "name": "teclado ",
+      "price": "13"
+    },
+    {
+      "id": "5ec6",
+      "name": "mouse",
+      "price": "15.56"
+    },
+    {
+      "id": "6b84",
+      "name": "oculos",
+      "price": "15.50"
+    },
+    {
+      "id": "bf39",
+      "name": "oculos",
+      "price": "15.50"
+    },
+    {
+      "id": "8bcc",
+      "name": "controle",
+      "price": "34"
+    }
+  ]
+}
